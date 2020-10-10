@@ -14,3 +14,11 @@ JavaFF is an implementation of the planner FF written in Java. Based on the sour
 ## Logs
 Inner `logs` folder, you can find the results when execute on the follow system:
 
+```
+Caminho do hardware  Dispositivo  Classe         Descrição
+============================================================
+                                  system         Computer
+/0                                bus            Motherboard
+/0/0                              memory         7799MiB Memória do sistema
+/0/1                              processor      Intel(R) Core(TM) i3-2328M CPU 
+```
