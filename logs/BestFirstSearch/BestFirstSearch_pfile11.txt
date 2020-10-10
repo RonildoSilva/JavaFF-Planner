@@ -1,0 +1,2 @@
+Parsed Domain file problems/rovers/domain.pddl successfully
+Parsed Problem file problems/rovers/pfile11 successfully
