@@ -10,3 +10,7 @@ JavaFF is an implementation of the planner FF written in Java. Based on the sour
 ## Automatic Running
 
 - Run the `run_all.py` script to run all rover problems and save all outputs in a file.
+
+## Logs
+Inner `logs` folder, you can find the results when execute on the follow system:
+

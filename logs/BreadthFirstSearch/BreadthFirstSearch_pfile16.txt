@@ -1,0 +1,3 @@
+Parsed Domain file problems/rovers/domain.pddl successfully
+Parsed Problem file problems/rovers/pfile16 successfully
+Performing Breadth First (blind) search...

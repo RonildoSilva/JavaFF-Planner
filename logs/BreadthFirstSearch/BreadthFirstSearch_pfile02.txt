@@ -1,0 +1,13 @@
+Parsed Domain file problems/rovers/domain.pddl successfully
+Parsed Problem file problems/rovers/pfile02 successfully
+Performing Breadth First (blind) search...
+Actions = 77
+(sample_soil rover0 rover0store waypoint0)
+(communicate_soil_data rover0 general waypoint0 waypoint0 waypoint1)
+(calibrate rover0 camera0 objective0 waypoint0)
+(take_image rover0 waypoint0 objective1 camera0 low_res)
+(drop rover0 rover0store)
+(sample_rock rover0 rover0store waypoint0)
+(communicate_rock_data rover0 general waypoint0 waypoint0 waypoint1)
+(communicate_image_data rover0 general objective1 low_res waypoint0 waypoint1)
+Planning Time =	2.25sec
